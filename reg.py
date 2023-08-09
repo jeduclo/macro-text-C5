@@ -4,6 +4,8 @@ from stats_can import StatsCan
 import plotly.express as px
 import datetime
 import base64
+import numpy as np
+
 
 def run_reg_app():
     # Load and clean Data

@@ -8,6 +8,7 @@ pandas = "*"
 stats-can = "*"
 plotly = "*"
 streamlit = "*"
+numpy = "*"
 
 [dev-packages]
 

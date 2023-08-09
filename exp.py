@@ -3,6 +3,8 @@ from stats_can import StatsCan
 import pandas as pd
 import plotly.express as px
 import datetime
+import numpy as np
+
 
 def run_exp_app():
     @st.cache_data

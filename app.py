@@ -1,6 +1,8 @@
 # Core pkgs
 import streamlit as st
 import streamlit.components.v1 as stc
+import numpy as np
+
 
 from inc import run_inc_app
 from exp import run_exp_app
