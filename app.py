@@ -21,6 +21,19 @@ def run_home_app():
     st.write("""
     Welcome to the Expenditure-Output Model and GDP Data Exploration!
     """)
+    
+    st.markdown("""
+    **Instructions:**
+    
+    1. Use the **Menu** on the left sidebar to navigate through the application.
+    2. Choose from the following options:
+        - **Home**: You're currently on the home page which provides a brief overview.
+        - **Expenditure**: Dive deep into expenditure data and analytics.
+        - **Income**: Explore data related to income statistics.
+        - **Regions**: Discover insights by region.
+    3. Depending on your selection, the main content area will update to display relevant information and visualizations.
+    4. Navigate back to **Home** anytime to see these instructions again.
+    """)
 
 
 
