@@ -11,7 +11,7 @@ from reg import run_reg_app
 
 HTML_BANNER = """
     <div style="background-color:#464e5f;padding:10px;border-radius:10px">
-    <h1 style="color:white;text-align:center;">Chapter 5: National Income-Output</h1>
+    <h1 style="color:white;text-align:center;">Chapter 5: National Income and Product Accounts</h1>
     </div>
     """
 stc.html(HTML_BANNER)
@@ -19,7 +19,7 @@ stc.html(HTML_BANNER)
 def run_home_app():
     
     st.write("""
-    Welcome to the Expenditure-Output Model and GDP Data Exploration!
+    Welcome to the Exploration of National Income and Product Accounts Data!
     """)
     
     st.markdown("""
