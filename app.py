@@ -2,9 +2,6 @@
 import streamlit as st
 import streamlit.components.v1 as stc
 
-# Import Mini Apps
-#from stock_app import run_stock_app
-#from stock_tsx import run_tsx_app
 from inc import run_inc_app
 from exp import run_exp_app
 from reg import run_reg_app
